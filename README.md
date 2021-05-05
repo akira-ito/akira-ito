@@ -13,9 +13,9 @@ You can click the Preview link to take a look at your changes.
 
 
 #### Languages & Frameworks
-![java](https://user-images.githubusercontent.com/5279421/117180889-0b910b80-adab-11eb-8cc5-4d3235e15a60.png)
-![spring](https://user-images.githubusercontent.com/5279421/117180946-1b105480-adab-11eb-8fb5-e38ae615cbcd.png)
-![node-dot-js](https://user-images.githubusercontent.com/5279421/117181022-2ebbbb00-adab-11eb-93c7-ff4b4081932a.png)
-![typescript](https://user-images.githubusercontent.com/5279421/117181062-3a0ee680-adab-11eb-986e-115a73f2653c.png)
-![react](https://user-images.githubusercontent.com/5279421/117181316-793d3780-adab-11eb-8fc5-c29c3e813195.png)
-![angular](https://user-images.githubusercontent.com/5279421/117181326-7a6e6480-adab-11eb-8f77-3b1338e82b72.png)
+![java](https://user-images.githubusercontent.com/5279421/117182997-688dc100-adad-11eb-94b4-3e132ece9736.jpg)
+![spring](https://user-images.githubusercontent.com/5279421/117183008-6b88b180-adad-11eb-8ee9-4a12b808d31f.jpg)
+![node-dot-js](https://user-images.githubusercontent.com/5279421/117183015-6d527500-adad-11eb-8e8a-7213774fc013.jpg)
+![typescript](https://user-images.githubusercontent.com/5279421/117183019-6f1c3880-adad-11eb-9e3a-455449f369e0.jpg)
+![react](https://user-images.githubusercontent.com/5279421/117183023-70e5fc00-adad-11eb-8ba7-9d5efb084956.jpg)
+![angular](https://user-images.githubusercontent.com/5279421/117183027-717e9280-adad-11eb-8038-998e0cd2ef45.jpg)
